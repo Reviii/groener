@@ -1,5 +1,6 @@
 td, th {
-  vertical-align:top;
+  vertical-align: top;
+  padding: 8px;
 }
 table {
   border-collapse: collapse;
@@ -8,7 +9,7 @@ table, th, td {
   border: 1px solid black;
 }
 th {
-  background-color: #aaaaaaa;
+  background-color: #aaaaaa;
 }
 td {
   background-color: #22ff22;
