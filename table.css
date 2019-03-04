@@ -1,0 +1,15 @@
+td, th {
+  vertical-align:top;
+}
+table {
+  border-collapse: collapse;
+}
+table, th, td {
+  border: 1px solid black;
+}
+th {
+  background-color: #aaaaaaa;
+}
+td {
+  background-color: #22ff22;
+}
