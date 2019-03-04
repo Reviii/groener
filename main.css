@@ -37,6 +37,7 @@ p {
   top: 32px;
   left: 0;
   overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
 }
 .frame.nopadding {
   padding: 0 0;
