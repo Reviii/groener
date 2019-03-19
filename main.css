@@ -47,3 +47,9 @@ a:hover {
   padding: 0 0;
   width: 100%;
 }
+.images {
+  position: absolute;
+  top: 40px;
+  left: 40%;
+  z-index: -1;
+}
