@@ -33,7 +33,7 @@ a:hover {
 }
 .frame {
   border: none;
-  background-color: #eee;
+  background-color: #fff;
   width: calc(100% - 16px);
   height: calc(100% - 32px);
   position: absolute;
