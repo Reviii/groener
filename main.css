@@ -1,5 +1,5 @@
 body {
-  background-color: #00ff00;
+  background-color: #000;
 }
 p {
   font-size: 1.25em;
@@ -30,7 +30,7 @@ p {
 }
 .frame {
   border: none;
-  background-color: #00ff00;
+  background-color: #eee;
   width: calc(100% - 16px);
   height: calc(100% - 32px);
   position: absolute;
