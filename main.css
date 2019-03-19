@@ -4,6 +4,9 @@ body {
 p {
   font-size: 1.25em;
 }
+a:hover {
+  color: #5a5;
+}
 .menu {
   display: flex;
   width: 100%;
