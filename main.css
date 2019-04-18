@@ -50,6 +50,6 @@ a:hover {
 .images {
   position: absolute;
   top: 8px;
-  left: 50%;
+  left: 40%;
   z-index: 1;
 }
