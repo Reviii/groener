@@ -9,8 +9,17 @@ table, th, td {
   border: 1px solid black;
 }
 th {
-  background-color: #aaaaaa;
+  background-color: #aaa;
 }
 td {
   background-color: #ddd;
 }
+/*
+Mischien moeten de kleuren iets meer constrast geven (wittere achtergrond) zoals
+th {
+  background-color: #bbb;
+}
+td {
+  background-color: #eee;
+}
+*/
